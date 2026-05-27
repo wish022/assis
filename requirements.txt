@@ -2,3 +2,6 @@ pandas
 openpyxl
 pyinstaller
 requests
+openpyxl
+beautifulsoup4
+rich
