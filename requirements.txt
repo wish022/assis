@@ -4,4 +4,3 @@ pyinstaller
 requests
 openpyxl
 beautifulsoup4
-rich
